@@ -1,2 +1,2 @@
-# getcss-lite
-Lightweight and compact version of getcss framework.
+# getCSS-lite
+Lightweight and compact version of getCSS framework.
